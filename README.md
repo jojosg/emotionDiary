@@ -25,9 +25,14 @@
 ![감정3](https://github.com/user-attachments/assets/77c82ede-8474-48a1-8c16-8fabd7185c55)
 
 
+# ✨ 기술 스택
+<div>
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </div>
 
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
